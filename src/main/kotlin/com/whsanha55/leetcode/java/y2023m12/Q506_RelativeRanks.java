@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 /**
- * <a href="https://leetcode.com/problems/base-7/description/">Base7_504</a>
+ * <a href="https://leetcode.com/problems/relative-ranks/description/">leetcode</a>
  */
 public class Q506_RelativeRanks {
 
